@@ -1,0 +1,42 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">MyMusicPlayer</string>
+
+    <!-- Category name for the vocabulary words for Hindi Music [CHAR LIMIT=20] -->
+    <string name="category_hindi">Hindi Songs</string>
+
+    <!-- Category name for the vocabulary words for English Music [CHAR LIMIT=20] -->
+    <string name="category_english">English Songs</string>
+
+    <!-- Category name for the vocabulary words for hindi songs [CHAR LIMIT=20] -->
+    <string-array name="hindi_artist">
+        <item>Arjit Singh</item>
+        <item>Atif Aslam</item>
+        <item>Shaan</item>
+        <item>Shreya Ghoshal</item>
+        <item>Shankar Mahadevan</item>
+    </string-array>
+    <string-array name="hindi_songs">
+        <item>Tum Hi Ho</item>
+        <item>Tere Sang Yara</item>
+        <item>Tanha Dil</item>
+        <item>Sun Raha Hai Na</item>
+        <item>Ek Dantay</item>
+    </string-array>
+
+    <string-array name="english_artist">
+        <item>Sia</item>
+        <item>Ed shreen</item>
+        <item>Shakira</item>
+        <item>Beyounce</item>
+        <item>Shakira</item>
+    </string-array>
+    <string-array name="english_songs">
+        <item>Cheap Thrills</item>
+        <item>Shape of You</item>
+        <item>Waka Waka</item>
+        <item>I am a single lady</item>
+        <item>You are my medicine</item>
+    </string-array>
+
+</resources>
